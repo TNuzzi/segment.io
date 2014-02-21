@@ -19,9 +19,9 @@ segment.identify('Another-User-ID');
 
 segment.track('this thing track');
 segment.screen('this thing screen');
+```
 
 Full titanium docs will be provided as soon as the android version is completed.
-```
 
 ## License
 
