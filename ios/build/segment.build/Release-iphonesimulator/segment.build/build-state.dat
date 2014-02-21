@@ -1,0 +1,202 @@
+Tsegment
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/yq/3n4m0jrs3tv7zj5l68b0c3j00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SegmentIo_Prefix-fkmueyhkptijvsdxojknhdejtwhv/SegmentIo_Prefix.pch.pch SegmentIo_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.o /Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.o /Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator/libSegmentIo.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052824E170000000000000176
+t1384271383
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c0000000052726A1800000000000003B5
+t1383229976
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052726A1B00000000000001A0
+t1383229979
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AdSupport.framework/AdSupport
+c0000000052726A1B0000000000008CC0
+t1383229979
+s36032
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000052726A1C00000000006C6DC0
+t1383229980
+s7105984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c0000000052726A1C0000000000227290
+t1383229980
+s2257552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052726A1C000000000088C680
+t1383229980
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000052726A1D00000000004848F0
+t1383229981
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000052726A1D00000000001290B0
+t1383229981
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000052726A1D00000000001081B0
+t1383229981
+s1081776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052726A1F0000000001DB9910
+t1383229983
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.dylib
+c0000000052726A2700000000001D3590
+t1383229991
+s1914256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib
+c0000000052726A27000000000002B700
+t1383229991
+s177920
+
+N/Users/mattapperson/Development/segment.io/ios/Analytics.framework/Analytics
+c0000000053029FF40000000001E8722C
+t1392680948
+s32010796
+
+N/Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.m
+c00000000530671D3000000000000063E
+t1392931283
+s1598
+
+N/Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.m
+c000000005306618E000000000000024E
+t1392927118
+s590
+
+N/Users/mattapperson/Development/segment.io/ios/SegmentIo_Prefix.pch
+c000000005306618E000000000000003E
+t1392927118
+s62
+
+N/Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator/libSegmentIo.a
+t2
+s0
+
+N/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIo.LinkFileList
+c0000000053067C420000000000000124
+t1392933954
+s292
+
+N/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.o
+t1392933954
+s15004
+
+N/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.o
+t1392933954
+s4988
+
+N/var/folders/yq/3n4m0jrs3tv7zj5l68b0c3j00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SegmentIo_Prefix-fkmueyhkptijvsdxojknhdejtwhv/SegmentIo_Prefix.pch.pch
+t1392929903
+s3195156
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd7f66ec2b3b6b841^829177c2b3b6b841^---0#1#1#--18"Check dependencies36"21AE9822-A2CF-4E3D-921D-7A4ADB044BA8-
+
+CCompileC build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.o /Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414626754.469590
+e414626754.554759
+r1
+xCompileC
+xbuild/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.o
+x/Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.m
+d/Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiModule.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiProxy.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiBase.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/defines.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiThreading.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiPublicAPI.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiEvaluator.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/KrollContext.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiCore.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/Ti.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiBase.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/KrollCallback.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/KrollObject.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiBindingRunLoop.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiUtils.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiDimension.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiColor.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/WebFont.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiFile.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiBuffer.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiBlob.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiHost.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/Bridge.h
+d/Users/mattapperson/Library/Application Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiStylesheet.h
+d/Users/mattapperson/Development/segment.io/ios/Analytics.framework/Headers/Analytics.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.m198"CompileC build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.o Classes/SegmentIoModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere56278c2b3b6b841^36058ec2b3b6b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.m0000000000000000^3846"CompileC build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.o Classes/SegmentIoModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mattapperson/Development/segment.io/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/SegmentIo-generated-files.hmap -I/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/SegmentIo-own-target-headers.hmap -I/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/SegmentIo-all-target-headers.hmap -iquote /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/SegmentIo-project-headers.hmap -I/Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator/include -I/Users/mattapperson/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include -I/Users/mattapperson/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore -I/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/DerivedSources/i386 -I/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/DerivedSources -F/Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator -F/Users/mattapperson/Development/segment.io/ios -DTI_POST_1_2 -include /var/folders/yq/3n4m0jrs3tv7zj5l68b0c3j00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SegmentIo_Prefix-fkmueyhkptijvsdxojknhdejtwhv/SegmentIo_Prefix.pch -MMD -MT dependencies -MF /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.d --serialize-diagnostics /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.dia -c /Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModule.m -o /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModule.o36"934819DA-015A-4E85-8CC5-82162E17DCA5-
+b344083C3-8CB2-489B-BB21-D3E8E2CA01C3
+
+CCompileC build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.o /Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s414626754.469893
+e414626754.486940
+r1
+xCompileC
+xbuild/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.o
+x/Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.m
+d/Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.m210"CompileC build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.o Classes/SegmentIoModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler456478c2b3b6b841^d2a87cc2b3b6b841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.m0000000000000000^3882"CompileC build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.o Classes/SegmentIoModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mattapperson/Development/segment.io/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/SegmentIo-generated-files.hmap -I/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/SegmentIo-own-target-headers.hmap -I/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/SegmentIo-all-target-headers.hmap -iquote /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/SegmentIo-project-headers.hmap -I/Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator/include -I/Users/mattapperson/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include -I/Users/mattapperson/Library/Application\ Support/Titanium/mobilesdk/osx/3.1.3.GA/iphone/include/TiCore -I/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/DerivedSources/i386 -I/Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/DerivedSources -F/Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator -F/Users/mattapperson/Development/segment.io/ios -DTI_POST_1_2 -include /var/folders/yq/3n4m0jrs3tv7zj5l68b0c3j00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SegmentIo_Prefix-fkmueyhkptijvsdxojknhdejtwhv/SegmentIo_Prefix.pch -MMD -MT dependencies -MF /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.d --serialize-diagnostics /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.dia -c /Users/mattapperson/Development/segment.io/ios/Classes/SegmentIoModuleAssets.m -o /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIoModuleAssets.o36"93D0C103-023D-4EA7-9BAC-81F205C7EB30-
+b344083C3-8CB2-489B-BB21-D3E8E2CA01C3
+
+CLibtool /Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator/libSegmentIo.a normal i386
+s414626754.555455
+e414626754.559597
+r1
+xLibtool
+x/Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator/libSegmentIo.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Libtool build/Release-iphonesimulator/libSegmentIo.a normal i38664"Libtool build/Release-iphonesimulator/libSegmentIo.a normal i3864a428ec2b3b6b841^91448fc2b3b6b841^-1335"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.dylib is a dynamic library, not added to the static library-0#0#1#--1562"Libtool build/Release-iphonesimulator/libSegmentIo.a normal i386    cd /Users/mattapperson/Development/segment.io/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/usr/local/share/npm/bin:/usr/local/bin:/usr/local/sbin:~/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator -filelist /Users/mattapperson/Development/segment.io/ios/build/segment.build/Release-iphonesimulator/segment.build/Objects-normal/i386/SegmentIo.LinkFileList -ObjC /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.dylib -framework Analytics -framework AdSupport -framework QuartzCore -framework UIKit -framework CoreTelephony -framework SystemConfiguration -framework Security -framework CoreData -framework Foundation -o /Users/mattapperson/Development/segment.io/ios/build/Release-iphonesimulator/libSegmentIo.a36"D427AF32-1291-4272-8805-3605BA5A36C9-
+b344083C3-8CB2-489B-BB21-D3E8E2CA01C3
+
+CProcessPCH /var/folders/yq/3n4m0jrs3tv7zj5l68b0c3j00000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/SegmentIo_Prefix-fkmueyhkptijvsdxojknhdejtwhv/SegmentIo_Prefix.pch.pch SegmentIo_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
